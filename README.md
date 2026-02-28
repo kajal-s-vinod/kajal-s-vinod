@@ -54,14 +54,12 @@
   <a href="https://github.com/kajal-s-vinod">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/kajal-s-vinod-1b1611291/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <!-- Add your Instagram link here if desired:
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/k.aajal._/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  -->
 </p>
 
 ---
