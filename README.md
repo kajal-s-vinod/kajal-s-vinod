@@ -5,10 +5,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **[Insert Current Project / Internship]**
-- 🏗️ Love building intuitive, real-world usable systems
-- 🌱 Exploring **[Insert Key Interests, e.g., Web Development, App Architecture]**
-- 🎯 Strong interest in **[Insert Languages, e.g., JavaScript, Python, UI/UX]**
+- 🔭 Currently working on **SAARAM AI Suite & Full Stack Personal Projects**
+- 🏗️ Love building scalable applications and bridging communication gaps with AI
+- 🌱 Exploring **Deep Learning, Computer Vision & Modern Web Architectures**
+- 🎯 Strong interest in **Python, Machine Learning & React**
 - 🤝 Open to collaborations & cool open-source projects
 
 ---
@@ -20,21 +20,23 @@
 | **[SAARAM AI Suite](https://github.com/Jay-0071/Saaram_Backend)** | Co-developed real-time ISL & Emotion translation platform utilizing FastAPI & React |
 | **[Fake Instagram Detection](https://github.com/Jay-0071/fake-instagram-detection)** | ML tool (SVM/Random Forest) to classify fake/spam Instagram bot accounts |
 | **[OriginX](https://github.com/Jay-0071/OrginX_Real)** | Co-developed versatile full-stack platform focused on modern UI/UX and efficient data flow |
+| **[OriginX-App](https://github.com/Jay-0071/OriginX-App)** | The responsive TypeScript frontend application driving OriginX |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`JavaScript` `Python` `Java` `C++` `HTML` `CSS` 
+`Python` `JavaScript` `TypeScript` `HTML` `CSS` 
 
 ### 🌐 Web & Frameworks
-`React` `Node.js` `Express` 
+`React` `Node.js` `FastAPI` `Express` 
+
+### 🤖 AI & Machine Learning
+`TensorFlow` `Computer Vision` `NLP` `MediaPipe`
 
 ### 🧰 Tools & Others
-`Git` `GitHub` `Figma` `VS Code` 
-
-*(Note: Feel free to customize these languages and tools to match your actual stack!)*
+`Git` `GitHub` `VS Code` `Figma`
 
 ---
 
