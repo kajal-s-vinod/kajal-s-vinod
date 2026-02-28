@@ -17,9 +17,9 @@
 
 | Project | Description |
 |----------|------------|
-| **[Project One Name](https://github.com/kajal-s-vinod)** | Brief description of what this project does and the technologies used |
-| **[Project Two Name](https://github.com/kajal-s-vinod)** | Brief description of what this project does and the technologies used |
-| **[Project Three Name](https://github.com/kajal-s-vinod)** | Brief description of what this project does and the technologies used |
+| **[SAARAM AI Suite](https://github.com/Jay-0071/Saaram_Backend)** | Co-developed real-time ISL & Emotion translation platform utilizing FastAPI & React |
+| **[Fake Instagram Detection](https://github.com/Jay-0071/fake-instagram-detection)** | ML tool (SVM/Random Forest) to classify fake/spam Instagram bot accounts |
+| **[OriginX](https://github.com/Jay-0071/OrginX_Real)** | Co-developed versatile full-stack platform focused on modern UI/UX and efficient data flow |
 
 ---
 
